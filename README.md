@@ -19,3 +19,13 @@ Python | PyTorch | Hugging Face Transformers | Streamlit
 ## Run App
 streamlit run app.py
 
+## 📸 Demo
+
+Here is an example sentiment analysis:
+
+**Input Review:**  
+`I’m very disappointed, the product stopped working after two days`
+
+**Prediction:**  
+- Sentiment: NEGATIVE 👎  
+- Confidence: 99.98%
